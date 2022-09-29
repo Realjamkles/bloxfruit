@@ -16,12 +16,3 @@ else
 	game.Players.LocalPlayer:kick("Hmm... We couldn't find this game in our hacks!")
 	wait(1)
 	game:Shutdown()
-end
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
